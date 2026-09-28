@@ -1,4 +1,4 @@
 # Webprogramozás 12
 
-- [001 change event]()
-- [002 keypress event]()
+- [change event](https://makulaelemerrikardo1130-hash.github.io/12A_2cs_webprogramozas/001_change_event)
+- [Keypress event](https://makulaelemerrikardo1130-hash.github.io/12A_2cs_webprogramozas/001_keypress_event)
